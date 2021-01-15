@@ -34,4 +34,6 @@ first week.
 
 The <b>detailed analysis</b> can be seen [here](https://github.com/tangramer/How-MeToo-Movement-Became-Global-/blob/main/%23MeToo%20Analysis.pdf)
 
+The <b>summary poster</b> can be seen [here](https://github.com/tangramer/How-MeToo-Movement-Became-Global-/blob/main/%23MeToo%20Poster.pdf)
+
 The <b>final visualization web page</b> can be seen [here](https://observablehq.com/@tangramer/fp-how-metoo-movement-became-global)
